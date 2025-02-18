@@ -189,7 +189,7 @@ Select the Chat Gpt model (gpt 4 is recommended) and then describe the personali
 
 Get creative and make it as descriptive as possible. Under "posting style" you can add further clarification. Here's how we described our 420 demo agent:
 
-   ![1](https://github.com/ACHR99/ACHR/blob/main/cd126q01.png?raw=true)
+   ![1](https://github.com/ACHR99/ACHR/blob/master/Acd126q01.png?raw=true)
 
 - Enable "Mention Client Name" in tweets if you want the client to have an identity.
 
