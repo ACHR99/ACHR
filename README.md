@@ -163,7 +163,7 @@ Now, start a whole new command prompt and navigate to the ACHR99 directory like 
 
 You'll basically need to have two instances of the command prompt running at the same time, one for the server, and one for the front end interface. ACHR99 will boot up on your default browser at the website "localhost:3000":
 
-   ![1](https://github.com/ACHR99/ACHR/blob/main/706e67.png?raw=true)
+   ![1](https://github.com/ACHR99/ACHR/blob/master/Bachr.png?raw=true)
 
 If you don't have any agents hit the "Create New Agent" button and the rest is very easy (non-technical).
 
