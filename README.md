@@ -6,7 +6,7 @@
 
 # 🤖 ACHR99 Benefits 🌟
 
-![ACHR99 Interface](https://github.com/ACHR99/ACHR/blob/main/interface%20.png?raw=true)
+![ACHR99 Interface](https://github.com/ACHR99/ACHR/blob/master/interface%20.png?raw=true)
 
 ✅ **Own Your Agent**  
 All files run locally, so you keep your API keys private and secure on your own machine.
