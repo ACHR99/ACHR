@@ -1,6 +1,6 @@
 # ACHR99 🤖: Create & Own Your Own Agents
 
-![ACHR99 Logo](https://github.com/ACHR99/ACHR/blob/main/ACHR01.png?raw=true)
+![ACHR99 Logo](https://github.com/ACHR99/ACHR/blob/master/ACHR01.png?raw=true)
 
 **ACHR99** is an open-source AI agent deployer that allows you to create and manage multiple AI agents with unique personalities and styles. The agent deployer operates locally (on your own machine), ensuring your API keys remain private and secure.
 
